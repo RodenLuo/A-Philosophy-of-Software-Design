@@ -9,3 +9,6 @@
 > 第二版(2021版)新增内容：https://web.stanford.edu/~ouster/cgi-bin/aposd2ndEdExtract.pdf
 
 中文在线阅读地址：https://go7hic.github.io/A-Philosophy-of-Software-Design/#/
+
+
+https://gwh111.github.io/2019/10/23/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%93%B2%E5%AD%A6/
